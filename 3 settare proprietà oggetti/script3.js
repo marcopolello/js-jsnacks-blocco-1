@@ -37,7 +37,7 @@ var teams =
 for (var i = 0; i < teams.length; i++) {
   teams[i].points = numRandom();
   teams[i].fouls = numRandom();
-  console.log(teams[i]);
+  //console.log(teams[i]);
 }
 
 
